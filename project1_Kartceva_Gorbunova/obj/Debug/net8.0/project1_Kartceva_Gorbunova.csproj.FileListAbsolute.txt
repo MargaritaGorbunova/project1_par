@@ -1,0 +1,14 @@
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\bin\Debug\net8.0\project1_Kartceva_Gorbunova.exe
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\bin\Debug\net8.0\project1_Kartceva_Gorbunova.deps.json
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\bin\Debug\net8.0\project1_Kartceva_Gorbunova.runtimeconfig.json
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\bin\Debug\net8.0\project1_Kartceva_Gorbunova.dll
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\bin\Debug\net8.0\project1_Kartceva_Gorbunova.pdb
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\obj\Debug\net8.0\project1_Kartceva_Gorbunova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\obj\Debug\net8.0\project1_Kartceva_Gorbunova.AssemblyInfoInputs.cache
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\obj\Debug\net8.0\project1_Kartceva_Gorbunova.AssemblyInfo.cs
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\obj\Debug\net8.0\project1_Kartceva_Gorbunova.csproj.CoreCompileInputs.cache
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\obj\Debug\net8.0\project1_Kartceva_Gorbunova.dll
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\obj\Debug\net8.0\refint\project1_Kartceva_Gorbunova.dll
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\obj\Debug\net8.0\project1_Kartceva_Gorbunova.pdb
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\obj\Debug\net8.0\project1_Kartceva_Gorbunova.genruntimeconfig.cache
+C:\Users\ASUS Vivo Book\Desktop\Параллели\project1_Kartceva_Gorbunova\obj\Debug\net8.0\ref\project1_Kartceva_Gorbunova.dll
